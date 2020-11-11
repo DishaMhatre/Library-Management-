@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf 8">
+	<meta name="viewport" content="width=device-width">
+	<title> Booktique| Home</title>
+</head>
+<body>
+	<header>
+		<div class="head">
+			<h1>Booktique</h1>
+		</div>
+		<div class="navbar">
+			<ul>
+				<li >
+		</div>
+
+
+	</header>
+
+</body>
+</html>
+<?php
+
+echo'hello';
+?>
